@@ -1,1 +1,1 @@
-# This repository contains lab work done in Deep Learning.
+# This repository contains lab work done in Deep Learning Practicals.
